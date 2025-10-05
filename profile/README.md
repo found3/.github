@@ -14,3 +14,7 @@ THE FOUND3 (Pronounced `The Foundry`) is an open-collective aimed at [BlockSmith
 
 
 Using the amazing [Godot_Voxel](https://github.com/Zylann/godot_voxel) and a fork of [VoxelGame](https://github.com/Zylann/voxelgame), notably to focus on and extend "Block_Game".
+
+---
+
+You Can View [Megalisp](https://github.com/megalisp)'s Personal Knowledgebase / Notes / Ideas For The Project [Here](https://megalisp.github.io/vault-ice3/index.html)
