@@ -28,6 +28,11 @@ You Can View [Jost Grant](https://github.com/jostgrant)'s Personal Knowledgebase
 ---
 
 ## Motivation
+
+### In / For Edutainment
+...
+
+#### In / For Modders
 ...
 
 ---
