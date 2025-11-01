@@ -27,6 +27,11 @@ You Can View [Jost Grant](https://github.com/jostgrant)'s Personal Knowledgebase
 
 ---
 
+## Motivation
+...
+
+---
+
 ## Proj Map
 - [Cubicle](https://github.com/found3/cubicle) 
 
